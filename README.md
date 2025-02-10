@@ -1,5 +1,5 @@
 # Social-media-project
-Hashtag Instagram network
+Happiness Hashtag network Instagram Project
 Just run google colab script provided, it has all the lines of code written sequentally ,just run the cells one by one. 
 The data is provided in a csv file, as it was extracted from an online web scrapping tool.
 
